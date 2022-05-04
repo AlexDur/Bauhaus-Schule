@@ -3,7 +3,11 @@ import React from "react";
 const Wandmalerei = () => {
   return (
     <>
-      <div className="container">Wandmalerei</div>
+      <div className="container">
+        <div className="wandmalerei_container">
+          s. Weberei und Keramikwerkstatt
+        </div>
+      </div>
     </>
   );
 };

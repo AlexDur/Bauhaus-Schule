@@ -3,7 +3,11 @@ import React from "react";
 const Architektur = () => {
   return (
     <>
-      <div className="container">Architektur</div>
+      <div className="container">
+        <div className="keramik_container">
+          <p>s. Weberei und Keramikwerkstatt</p>
+        </div>
+      </div>
     </>
   );
 };
